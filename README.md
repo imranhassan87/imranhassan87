@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Javascript/Typescript, React/React Native, Nodejs, GraphQL
-- 🌱 I’m currently learning Rust and Go
+<!-- - 🌱 I’m currently learning Rust and Go -->
 - 📫 You can reach me out on [LinkedIn](https://www.linkedin.com/in/imran-hassan-342704165/) or <imranhassan926@gmail.com>
 <!--
 - 👯 I’m looking to collaborate on ...
